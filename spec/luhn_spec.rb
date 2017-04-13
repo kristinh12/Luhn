@@ -1,5 +1,4 @@
 require 'spec_helper'
-# require_relative 'luhn.rb'
 
 RSpec.describe Luhn, type: :model do
   describe 'is_valid? should work' do
